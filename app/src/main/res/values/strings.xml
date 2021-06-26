@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Online Courses</string>
+    <string name="todo">todo</string>
+    <string name="online_course">Online Course</string>
+    <string name="see_all">See All</string>
+    <string name="search_for_courses">Search for courses</string>
+    <string name="find_a_course_you_want_to_learn">Find a course you want to learn</string>
+    <string name="hey_rajendra">Hey Rajendra,</string>
+    <string name="categories">Categories</string>
 </resources>

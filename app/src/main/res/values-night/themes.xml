@@ -3,7 +3,7 @@
     <style name="Theme.OnlineCourses" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_200</item>
-        <item name="colorPrimaryVariant">@color/colorDark</item>
+        <item name="colorPrimaryVariant">@color/Blue</item>
         <item name="colorOnPrimary">@color/colorPrimaryDark</item>
 
         <item name="colorSecondary">@color/colorPrimaryDark</item>

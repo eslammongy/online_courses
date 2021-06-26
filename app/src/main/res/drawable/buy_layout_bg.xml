@@ -6,9 +6,7 @@
         android:topRightRadius="50dp"
         android:topLeftRadius="50dp"/>
 
-    <gradient android:startColor="#FFFFFF"
-        android:endColor="#FFFFFF"/>
-
+    <solid android:color="@color/Gray"/>
     <stroke android:width="0.5dp" android:color="#B2B1B1"/>
 
 
